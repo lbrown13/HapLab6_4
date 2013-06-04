@@ -1,0 +1,77 @@
+.navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus{
+    color: #ffff00;
+  }
+
+
+#header-section .innerbg{
+ background: rgba(44, 62, 80, 0.8)url(../../assets/img/beakers2.jpg) 50% 0 fixed repeat;
+ min-height:650px;
+ width:100%;
+ display:inline-block;
+ margin:0px;
+ padding:0px;
+ background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ -webkit-background-size: cover;
+ position:relative;
+ padding-bottom:50px;
+}
+
+#header-section .leftbg{
+  background: rgba(40, 170, 157, 0.6) url(../../assets/img/pixel.png) 0% 0% repeat;
+  min-height:100%;
+  height:100%;
+  width:100%;
+  display:block;
+  margin:0px 0px 0px 0px;
+  padding:0px 0px 0px 0px;
+  position:absolute;
+  bottom:0px;
+  z-index:1;
+}
+
+.feature-box ul li{
+  list-style: square;
+  text-align: left;
+  font-size: 12px;
+}
+
+.get-it {
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+.inner{
+  color: #3f95e1;
+}
+
+.page-header h3 {
+  color: #3f95e1;
+  border-bottom: 14px solid #3f95e1;
+  border-top: 14px solid #3f95e1;
+
+}
+.btn.btn-danger {
+  background-color: #3f95e1;
+}
+
+.btn.btn-success {
+  background: #34495E;
+}
+
+.gray .pricing-table-header .price-header {
+  background: #34495E;
+}
+
+.green .pricing-table-header .price-header {
+  background: #34495E;
+}
+
+.dark-green .pricing-table-header .price-header {
+  background: green;
+}
+
+.red .pricing-table-header .price-header {
+  background: #00b0f0;
+}
